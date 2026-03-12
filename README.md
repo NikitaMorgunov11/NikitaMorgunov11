@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Никита Моргунов!
 
-<!--
-**NikitaMorgunov11/NikitaMorgunov11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+Студент ФГБОУ ВО «ОГУ имени И.С. Тургенева» группы 41МО. Учусь разработке и дизайну веб-сайтов
 
-Here are some ideas to get you started:
+## Мои навыки
+*   HTML
+*   Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+*   [Лабораторные работы] ТОЛИК ЛОХ (ссылка на ваш второй репозиторий)
+
+## Контакты
+*   Email: senior.morgunoff2017@yandex.ru
+*   номер телефона: 89997552930
