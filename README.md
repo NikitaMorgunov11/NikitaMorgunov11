@@ -8,7 +8,7 @@
 *   Git & GitHub
 
 ## Мои проекты
-*   [Лабораторные работы]  (ссылка на ваш второй репозиторий)
+*   ([Лабораторные работы](https://github.com/NikitaMorgunov11/NikitaMorgunov11.github.io))
 
 ## Контакты
 *   Email: senior.morgunoff2017@yandex.ru
