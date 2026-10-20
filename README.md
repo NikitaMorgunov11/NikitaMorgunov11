@@ -12,4 +12,3 @@
 
 ## Контакты
 *   Email: senior.morgunoff2017@yandex.ru
-*   номер телефона: 89997552930
